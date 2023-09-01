@@ -1,0 +1,10 @@
+{
+  "name": "@trentm/npmplay",
+  "version": "0.1.0",
+  "description": "Trent playing with npm behaviour",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Trent Mick (https://github.com/trentm)",
+  "license": "Apache-2.0"
+}
